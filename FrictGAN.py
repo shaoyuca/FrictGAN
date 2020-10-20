@@ -503,7 +503,7 @@ def fit(train_ds, epochs, test_ds):
 
 
 checkpoint.restore(tf.train.latest_checkpoint(checkpoint_dir))
-#fit(train_dataset, EPOCHS, test_dataset)
+fit(train_dataset, EPOCHS, test_dataset)
 
 for inp, tar in valid_dataset.take(24):
    generate_images(generator, inp, tar)
