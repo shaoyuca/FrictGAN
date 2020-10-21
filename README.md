@@ -9,3 +9,5 @@ Our dataset: https://drive.google.com/drive/folders/18d87rOHqSJN3dCXBCuII3yMa2UG
 
 
 usage: python FrictGAN.py
+
+Please reference our paper as: Cai, Shaoyu, et al. "FrictGAN: Frictional Signal Generation from Fabric Texture Images using Generative Adversarial Network." The Eurographics Association (2020)
