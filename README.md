@@ -10,4 +10,14 @@ Our dataset: https://drive.google.com/drive/folders/18d87rOHqSJN3dCXBCuII3yMa2UG
 
 usage: python FrictGAN.py
 
-Please cite our paper as: Cai, Shaoyu, et al. "FrictGAN: Frictional Signal Generation from Fabric Texture Images using Generative Adversarial Network." In ICAT-EGVE2020 - International Conference on Artificial Reality and Telexistence and Eurographics Symposium on Virtual Environments. The Eurographics Association, 2020.
+Please cite our paper as: @inproceedings {ve.20201254,
+booktitle = {ICAT-EGVE 2020 - International Conference on Artificial Reality and Telexistence and Eurographics Symposium on Virtual Environments},
+editor = {Argelaguet, Ferran and McMahan, Ryan and Sugimoto, Maki},
+title = {{FrictGAN: Frictional Signal Generation from Fabric Texture Images using Generative Adversarial Network}},
+author = {Cai, Shaoyu and Ban, Yuki and Narumi, Takuji and Zhu, Kening},
+year = {2020},
+publisher = {The Eurographics Association},
+ISSN = {1727-530X},
+ISBN = {978-3-03868-111-3},
+DOI = {10.2312/egve.20201254}
+}
