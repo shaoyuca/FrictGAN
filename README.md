@@ -7,7 +7,10 @@ Original dataset from HapTex: http://haptic.buaa.edu.cn/English_FabricDatabase.h
 
 Our dataset: https://drive.google.com/drive/folders/1NBTg6fWcgzNhsaxAlZdzfjP6FBEWNoVC?usp=sharing
 
-usage: python FrictGAN.py
+usage: 
+```
+python FrictGAN.py
+```
 
 Please cite our paper as:
 @inproceedings{Cai2020FrictGANFS,
