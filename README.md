@@ -5,8 +5,7 @@ FrictGAN: Frictional Signal Generation from Fabric Texture Images using Generati
 Original dataset from HapTex: http://haptic.buaa.edu.cn/English_FabricDatabase.htm
 
 
-Our dataset: https://drive.google.com/drive/folders/18d87rOHqSJN3dCXBCuII3yMa2UG-1LVk?usp=sharing
-
+Our dataset: https://drive.google.com/drive/folders/1NBTg6fWcgzNhsaxAlZdzfjP6FBEWNoVC?usp=sharing
 
 usage: python FrictGAN.py
 
